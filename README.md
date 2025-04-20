@@ -1,1 +1,35 @@
-# note-to-angry-guyfj  Hello Angry neighbor guy. I know that you guys have been stalking us very well now. I have it very well documented on video. as well as through an app that tracks the airplanes and drones as well as my GPS coordinates. I have again identified  many of your people who work with you. and I really don't know what you guys in game is, but could you please leave me the hell alone? I've never done anything to you. All I ever did was follow people that followed me And I followed a guy who was stalking my wife earlier that day. And the next thing I know, you're trying to Run me over and threaten to kill me. I do have it on video. as well as many other videos of the vehicles and the people in them. Just leave me alone. I don't want or you need any of this drama. You obviously have no idea who I really am. Because you wouldn't be doing this if you did. I sure as hell. I'm not a bad person I try to help everybody I can in any way that I can. So why you guys victimized people and following the way you do is your own burden to bear. I'm not here to judge you its your free will use it the way that you want. But could you so kindly leave me alone? I hope you have a blessed day. and find joy in whatever, this is... that you do .just leave ME AND MY FAMILY out of it. Thank you Your victom.....        P.S I really hate to pull this card as im sure you have some attachment to law enforcment but what your doing is highly illeagel and im willing to bet you  have misapropriatly used reasorces i do have a family member who runs a branch of AIR marshalls who i have sent an encrited file to with all of the data i and several others have collected it is not in my nature to be a snitch and i find it helariouse you would explell so much time energy and resorces on following me around.... you have lead me to relapce several times due to the stress you have put me under its hard enough getting off the bullshit then to add an entire comunity harasing you day in and day out we have found it impossible to stay clean so for the love of god let me get my fucking life back and leave me alone!!!!!!     
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Note to My Neighbor</title>
+    <!-- (Keep the same CSS styles as in the previous template) -->
+</head>
+<body>
+    <div class="note-container">
+        <h1>✉️ A Request for Peace</h1>
+        <div class="note-content">
+            To my angry neighbor,  
+
+            I’m aware you and your associates have been stalking me and my family. Every interaction, threat, and instance of harassment has been documented—via video, flight/drone tracking apps, and GPS logs. I’ve identified multiple people involved, and while I don’t understand your motives, I demand that you stop.  
+
+            I’ve never harmed you. The only "offense" I committed was following someone who’d stalked my wife earlier that day. In return, you tried to run me over and threatened my life (all caught on video). This is beyond irrational.  
+
+            I’m not a bad person. I help others when I can. Your choice to victimize people is your own burden, but I refuse to be part of it. Leave me and my family alone. The stress you’ve caused has derailed my life, including my recovery—relapses triggered by your harassment make it impossible to move forward.  
+
+            Lastly, I’ve avoided involving authorities, but your actions are illegal. A dossier of evidence (including your misuse of resources) has been shared with a family member in federal law enforcement. This isn’t a threat—it’s accountability.  
+
+            Stop. Walk away. Let me rebuild my life.  
+
+            —Your exhausted neighbor  
+        </div>
+        <div class="footer">
+            Last updated: <span id="date"></span>
+        </div>
+    </div>
+    <script>
+        document.getElementById('date').textContent = new Date().toLocaleDateString();
+    </script>
+</body>
+</html>
