@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Important Note</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .note-container {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .note-content {
+            font-size: 18px;
+            margin: 20px 0;
+            white-space: pre-line;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="">
+        <h1>📝 Important Note</h1>
+        <div class="note-content">
+            <!-- Hello Angry neighbor guy. I know that you guys have been stalking us very well now. I have it very well documented on video. as well as through an app that tracks the airplanes and drones as well as my GPS coordinates. I have again identified  many of your people who work with you. and I really don't know what you guys in game is, but could you please leave me the hell alone? I've never done anything to you. All I ever did was follow people that followed me And I followed a guy who was stalking my wife earlier that day. And the next thing I know, you're trying to Run me over and threaten to kill me. I do have it on video. as well as many other videos of the vehicles and the people in them. Just leave me alone. I don't want or you need any of this drama. You obviously have no idea who I really am. Because you wouldn't be doing this if you did. I sure as hell. I'm not a bad person I try to help everybody I can in any way that I can. So why you guys victimized people and following the way you do is your own burden to bear. I'm not here to judge you its your free will use it the way that you want. But could you so kindly leave me alone? I hope you have a blessed day. and find joy in whatever. this is that you do just. leave me in my family out of it. Thank you Your victim. -->
+            
+        </div>
+        <div class="footer">
+            Last updated: <span id="date"></span>
+        </div>
+    </div>
+
+    <script>
+        // Auto-update date
+        document.getElementById('date').textContent = new Date().toLocaleDateString();
+    </script>
+</body>
+</html>
